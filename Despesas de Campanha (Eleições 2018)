@@ -1,6 +1,6 @@
 #Nesse trabalho queremos ver graficamente os valores declarados gastos na campanha dos candidatos a deputados federais nas eleições de 2018
 
-#Pacotes que irão ser utilizandos no decorrer do trabalho
+#Pacotes que irão ser utilizados no decorrer do trabalho
 
 library(dplyr)
 library(ggplot2)
